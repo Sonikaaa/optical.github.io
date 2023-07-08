@@ -1,0 +1,341 @@
+0000.001 (0) Opened log file at time: Fri, 07 Jul 2023 16:38:00 +0000 on http://localhost/wordpress/wordpress
+0000.014 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.7 WP: 6.2.2 PHP: 8.2.4 (apache2handler, Windows NT DESKTOP-RQV24QH 10.0 build 22621 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 69.3M | 72M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.017 (0) Free space on disk containing Updraft's temporary directory: 28689 MB
+0000.026 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.030 (0) Semaphore (fd, wp_options) being initialised
+0000.044 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.063 (0) Set semaphore last lock (fd) time to 2023-07-07 16:38:00
+0000.067 (0) Semaphore lock (fd) complete
+0000.090 (0) Backup run: resumption=0, nonce=b89af6c82a31, file_nonce=b89af6c82a31 begun at=1688747880 (0s ago), job type=backup
+0000.098 (0) Scheduling a resumption (1) after 300 seconds (1688748180) in case this run gets aborted
+0000.115 (0) Checking if we have a zip executable available
+0000.125 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.130 (0) Creation of backups of directories: beginning
+0000.163 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.284 (0) Total entities for the zip file: 1147 directories, 5844 files (0 skipped as non-modified), 108.7 MB
+0001.290 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 111318.7 KB, split: 409600 KB)
+0001.321 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.344 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.368 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.389 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.411 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.439 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.459 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.481 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.499 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.523 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.542 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0001.561 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0001.580 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0001.600 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0001.619 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0001.640 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0001.662 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0001.681 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0001.699 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0001.720 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0001.741 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0001.765 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0001.792 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0001.812 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0001.831 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0001.852 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0001.871 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0001.892 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0001.910 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0001.931 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0001.956 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0001.977 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0001.997 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0002.015 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0002.036 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0002.058 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0002.078 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0002.097 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0002.116 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0002.139 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0002.158 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0002.177 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0002.195 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0002.212 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0002.231 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0002.250 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0002.268 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0002.287 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0002.306 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0002.326 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0002.344 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0002.362 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0002.379 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5300 files added (on-disk size: 0 KB)
+0002.398 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5400 files added (on-disk size: 0 KB)
+0002.415 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5500 files added (on-disk size: 0 KB)
+0002.432 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5600 files added (on-disk size: 0 KB)
+0002.448 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5700 files added (on-disk size: 0 KB)
+0002.465 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.tmp: 5800 files added (on-disk size: 0 KB)
+0176.817 (0) Creating zip file manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.list-temp.tmp)
+0176.890 (0) Successfully created zip file manifest (size: 476866)
+0177.169 (0) Created plugins zip (0) - 32844.4 KB in 177 s (185.6 KB/s) (sha1: 24e84563738956e9cfd3191b2913eb636339d76f, sha256: 61ad852f4d5306fba5ed8f559637a5a266e08f4d261a76bad86ae319af08158a)
+0177.185 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0177.189 (0) No remote despatch: user chose no remote backup service
+0177.194 (0) Recording as successfully uploaded: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip
+0177.203 (0) Deleting zip manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip.list.tmp)
+0177.213 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0177.217 (0) Number of backup sets in history: 0; groups (db): 1
+0177.222 (0) Number of backup sets in history: 0; groups (files): 1
+0177.226 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0177.252 (0) Beginning creation of dump of themes (split every: 400 MB)
+0177.408 (0) Total entities for the zip file: 304 directories, 680 files (0 skipped as non-modified), 17.3 MB
+0177.411 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 17693.3 KB, split: 409600 KB)
+0177.428 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0177.447 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0177.467 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0177.486 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0177.504 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0177.523 (0) Zip: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0191.738 (0) Creating zip file manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.list-temp.tmp)
+0191.745 (0) Successfully created zip file manifest (size: 59360)
+0191.806 (0) Created themes zip (0) - 5316.2 KB in 14.5 s (365.5 KB/s) (sha1: 6d6bd5046262e8fbf9e9ee258f031b1eb33874e3, sha256: cd99d837c4e19e5e6556329b5dc5b6f2eb40f190c2f4700f987712ba8a75c816)
+0191.819 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0191.824 (0) No remote despatch: user chose no remote backup service
+0191.828 (0) Recording as successfully uploaded: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip
+0191.835 (0) Deleting zip manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip.list.tmp)
+0191.844 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0191.848 (0) Number of backup sets in history: 0; groups (db): 1
+0191.851 (0) Number of backup sets in history: 0; groups (files): 1
+0191.856 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0191.875 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0191.880 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress\wordpress/wp-content/uploads
+0191.884 (0) finding files: 2020: adding to list (1)
+0191.888 (0) finding files: 2023: adding to list (2)
+0191.891 (0) finding files: astra-sites: adding to list (3)
+0191.894 (0) finding files: elementor: adding to list (4)
+0191.899 (0) finding files: wpforms: adding to list (5)
+0191.903 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0191.924 (0) Total entities for the zip file: 9 directories, 42 files (0 skipped as non-modified), 5.1 MB
+0191.929 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 5242.1 KB, split: 409600 KB)
+0193.101 (0) Creating zip file manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-uploads.zip.list-temp.tmp)
+0193.106 (0) Successfully created zip file manifest (size: 2421)
+0193.155 (0) Created uploads zip (0) - 3868.1 KB in 1.2 s (3120.2 KB/s) (sha1: b3c4cb930a46a7c1a6b9cc53dfd5442cee9a30f8, sha256: f7576bb597da8886c3c0a2bd90018d2f35e6f94d5174baade1734d8a6bcf943f)
+0193.169 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0193.174 (0) No remote despatch: user chose no remote backup service
+0193.178 (0) Recording as successfully uploaded: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-uploads.zip
+0193.185 (0) Deleting zip manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-uploads.zip.list.tmp)
+0193.194 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0193.199 (0) Number of backup sets in history: 0; groups (db): 1
+0193.204 (0) Number of backup sets in history: 0; groups (files): 1
+0193.209 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0193.227 (0) Beginning backup of other directories found in the content directory (index: 0)
+0193.231 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0193.235 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress\wordpress/wp-content
+0193.240 (0) finding files: index.php: adding to list (1)
+0193.243 (0) finding files: plugins: skipping: this is the plugins directory
+0193.247 (0) finding files: themes: skipping: this is the themes directory
+0193.250 (0) finding files: updraft: skipping: this is the updraft directory
+0193.254 (0) finding files: upgrade: skipping: excluded by options
+0193.259 (0) finding files: uploads: skipping: this is the uploads directory
+0193.270 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0193.274 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 0 KB, split: 409600 KB)
+0193.291 (0) Creating zip file manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-others.zip.list-temp.tmp)
+0193.296 (0) Successfully created zip file manifest (size: 43)
+0193.312 (0) Created others zip (0) - 0.1 KB in 0 s (3.2 KB/s) (sha1: 0d4293abf0e51d041261b8635523757cdc180b8c, sha256: 4f58ba90d5dbfb7a8c5208b5f6fb61bb61f3ff34d2e84353907670e6bda4d69a)
+0193.326 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0193.330 (0) No remote despatch: user chose no remote backup service
+0193.335 (0) Recording as successfully uploaded: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-others.zip
+0193.346 (0) Deleting zip manifest (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-others.zip.list.tmp)
+0193.354 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0193.357 (0) Number of backup sets in history: 0; groups (db): 1
+0193.360 (0) Number of backup sets in history: 0; groups (files): 1
+0193.364 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0193.390 (0) Saving backup status to database (elements: 8)
+0193.399 (0) Beginning creation of database dump (WordPress DB)
+0193.404 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0193.562 (0) Table wp_options: Total expected rows (via COUNT): 390
+0193.564 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0193.695 (0) Table wp_options: Rows added in this batch (next record: 820): 386 (uncompressed bytes in this segment=6659691) in 0.27 seconds
+0193.714 (0) Table wp_options: finishing file(s) (2, 554.5 KB)
+0193.740 (0) Table wp_users: Total expected rows (via COUNT): 1
+0193.745 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0193.756 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1179) in 0.02 seconds
+0193.772 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0193.791 (0) Table wp_usermeta: Total expected rows (via COUNT): 24
+0193.796 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0193.803 (0) Table wp_usermeta: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=5931) in 0.02 seconds
+0193.825 (0) Table wp_usermeta: finishing file(s) (2, 2.3 KB)
+0193.846 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 11
+0193.851 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0193.857 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 23): 11 (uncompressed bytes in this segment=5600) in 0.02 seconds
+0193.876 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.2 KB)
+0193.891 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0193.901 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0193.918 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0193.932 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0193.937 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0193.949 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=675) in 0.02 seconds
+0193.964 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0193.979 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 29
+0193.983 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0193.994 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 31): 29 (uncompressed bytes in this segment=3245) in 0.02 seconds
+0194.008 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.8 KB)
+0194.028 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0194.040 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.02 seconds
+0194.073 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0194.086 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0194.092 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.099 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1885) in 0.02 seconds
+0194.114 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0194.132 (0) Table wp_links: Total expected rows (via COUNT): 0
+0194.143 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.02 seconds
+0194.159 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0194.245 (0) Table wp_postmeta: Total expected rows (via COUNT): 1074
+0194.248 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.305 (0) Table wp_postmeta: Rows added in this batch (next record: 1135): 1074 (uncompressed bytes in this segment=3055626) in 0.14 seconds
+0194.325 (0) Table wp_postmeta: finishing file(s) (2, 281.7 KB)
+0194.365 (0) Table wp_posts: Total expected rows (via COUNT): 137
+0194.368 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.382 (0) Table wp_posts: Rows added in this batch (next record: 384): 137 (uncompressed bytes in this segment=350385) in 0.05 seconds
+0194.405 (0) Table wp_posts: finishing file(s) (2, 17.5 KB)
+0194.419 (0) Table wp_term_relationships: Total expected rows (approximate): 15
+0194.430 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 15 (uncompressed bytes in this segment=888) in 0.01 seconds
+0194.444 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0194.462 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 8
+0194.466 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.474 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1103) in 0.02 seconds
+0194.507 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0194.549 (0) Table wp_termmeta: Total expected rows (via COUNT): 5
+0194.556 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.579 (0) Table wp_termmeta: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=877) in 0.06 seconds
+0194.598 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0194.614 (0) Table wp_terms: Total expected rows (via COUNT): 8
+0194.619 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.625 (0) Table wp_terms: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=907) in 0.02 seconds
+0194.641 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0194.656 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0194.669 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=511) in 0.02 seconds
+0194.686 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0194.702 (0) Table wp_prli_clicks: Total expected rows (via COUNT): 0
+0194.707 (0) Table wp_prli_clicks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1225) in 0.01 seconds
+0194.725 (0) Table wp_prli_clicks: finishing file(s) (2, 0.5 KB)
+0194.747 (0) Table wp_prli_link_metas: Total expected rows (via COUNT): 0
+0194.752 (0) Table wp_prli_link_metas: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=672) in 0.02 seconds
+0194.775 (0) Table wp_prli_link_metas: finishing file(s) (2, 0.4 KB)
+0194.791 (0) Table wp_prli_links: Total expected rows (via COUNT): 0
+0194.797 (0) Table wp_prli_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1365) in 0.01 seconds
+0194.814 (0) Table wp_prli_links: finishing file(s) (2, 0.6 KB)
+0194.835 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0194.844 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=690) in 0.02 seconds
+0194.865 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0194.883 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0194.892 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1650) in 0.01 seconds
+0194.906 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0194.927 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 2
+0194.932 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.939 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=753) in 0.02 seconds
+0194.960 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.4 KB)
+0194.985 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 14
+0194.988 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0194.995 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 14): 14 (uncompressed bytes in this segment=9786) in 0.02 seconds
+0195.018 (0) Table wp_yoast_indexable: finishing file(s) (2, 2.1 KB)
+0195.034 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 11
+0195.043 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 11 (uncompressed bytes in this segment=966) in 0.01 seconds
+0195.059 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0195.072 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0195.077 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0195.086 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1234) in 0.02 seconds
+0195.103 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0195.117 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0195.128 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=829) in 0.02 seconds
+0195.147 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0195.160 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 8
+0195.164 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0195.173 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1929) in 0.02 seconds
+0195.188 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.7 KB)
+0195.194 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\wordpress\wordpress/wp-content/updraft/backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db.gz (line 1976, C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\updraftplus\backup.php)
+0195.200 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_options.table.tmpr821.gz (1/28/fopen): adding to final database dump
+0195.214 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_options.table.gz (2/28/fopen): adding to final database dump
+0195.218 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_users.table.tmpr2.gz (3/28/fopen): adding to final database dump
+0195.224 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_users.table.gz (4/28/fopen): adding to final database dump
+0195.229 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_usermeta.table.tmpr25.gz (5/28/fopen): adding to final database dump
+0195.234 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_usermeta.table.gz (6/28/fopen): adding to final database dump
+0195.238 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_actions.table.tmpr24.gz (7/28/fopen): adding to final database dump
+0195.243 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_actions.table.gz (8/28/fopen): adding to final database dump
+0195.246 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/28/fopen): adding to final database dump
+0195.251 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_claims.table.gz (10/28/fopen): adding to final database dump
+0195.256 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/28/fopen): adding to final database dump
+0195.260 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_groups.table.gz (12/28/fopen): adding to final database dump
+0195.263 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_logs.table.tmpr32.gz (13/28/fopen): adding to final database dump
+0195.267 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_actionscheduler_logs.table.gz (14/28/fopen): adding to final database dump
+0195.271 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_commentmeta.table.tmpr0.gz (15/28/fopen): adding to final database dump
+0195.275 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_commentmeta.table.gz (16/28/fopen): adding to final database dump
+0195.280 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_comments.table.tmpr2.gz (17/28/fopen): adding to final database dump
+0195.285 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_comments.table.gz (18/28/fopen): adding to final database dump
+0195.288 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_links.table.tmpr0.gz (19/28/fopen): adding to final database dump
+0195.292 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_links.table.gz (20/28/fopen): adding to final database dump
+0195.295 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_postmeta.table.tmpr1136.gz (21/28/fopen): adding to final database dump
+0195.302 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_postmeta.table.gz (22/28/fopen): adding to final database dump
+0195.307 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_posts.table.tmpr385.gz (23/28/fopen): adding to final database dump
+0195.311 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_posts.table.gz (24/28/fopen): adding to final database dump
+0195.317 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_term_relationships.table.tmpr100001.gz (25/28/fopen): adding to final database dump
+0195.322 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_term_relationships.table.gz (26/28/fopen): adding to final database dump
+0195.325 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_term_taxonomy.table.tmpr9.gz (27/28/fopen): adding to final database dump
+0195.329 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_term_taxonomy.table.gz (28/28/fopen): adding to final database dump
+0195.333 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_termmeta.table.tmpr6.gz (29/28/fopen): adding to final database dump
+0195.336 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_termmeta.table.gz (30/28/fopen): adding to final database dump
+0195.343 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_terms.table.tmpr9.gz (31/28/fopen): adding to final database dump
+0195.348 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_terms.table.gz (32/28/fopen): adding to final database dump
+0195.353 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_e_events.table.tmpr0.gz (33/28/fopen): adding to final database dump
+0195.357 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_e_events.table.gz (34/28/fopen): adding to final database dump
+0195.361 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_prli_clicks.table.tmpr0.gz (35/28/fopen): adding to final database dump
+0195.364 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_prli_clicks.table.gz (36/28/fopen): adding to final database dump
+0195.369 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_prli_link_metas.table.tmpr0.gz (37/28/fopen): adding to final database dump
+0195.374 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_prli_link_metas.table.gz (38/28/fopen): adding to final database dump
+0195.379 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_prli_links.table.tmpr0.gz (39/28/fopen): adding to final database dump
+0195.384 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_prli_links.table.gz (40/28/fopen): adding to final database dump
+0195.387 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (41/28/fopen): adding to final database dump
+0195.391 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_wpforms_payment_meta.table.gz (42/28/fopen): adding to final database dump
+0195.394 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_wpforms_payments.table.tmpr0.gz (43/28/fopen): adding to final database dump
+0195.399 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_wpforms_payments.table.gz (44/28/fopen): adding to final database dump
+0195.405 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_wpforms_tasks_meta.table.tmpr4.gz (45/28/fopen): adding to final database dump
+0195.409 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_wpforms_tasks_meta.table.gz (46/28/fopen): adding to final database dump
+0195.413 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_indexable.table.tmpr15.gz (47/28/fopen): adding to final database dump
+0195.416 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_indexable.table.gz (48/28/fopen): adding to final database dump
+0195.420 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (49/28/fopen): adding to final database dump
+0195.425 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_indexable_hierarchy.table.gz (50/28/fopen): adding to final database dump
+0195.431 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_migrations.table.tmpr25.gz (51/28/fopen): adding to final database dump
+0195.436 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_migrations.table.gz (52/28/fopen): adding to final database dump
+0195.439 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_primary_term.table.tmpr0.gz (53/28/fopen): adding to final database dump
+0195.446 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_primary_term.table.gz (54/28/fopen): adding to final database dump
+0195.451 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_seo_links.table.tmpr9.gz (55/28/fopen): adding to final database dump
+0195.457 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db-table-wp_yoast_seo_links.table.gz (56/28/fopen): adding to final database dump
+0195.484 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db.gz: finished writing out complete database file (870.3 KB)
+0195.515 (0) Total database tables backed up: 28 (backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db.gz, size: 891260, sha1: 4876534e631f6a67aff549770c6a0b8618f8a79f, sha256: ea91df3dbaff60ffbbf3410e52fc70de673daad7b205ecde764922404e99d71c)
+0195.532 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-plugins.zip: plugins: This file has already been successfully uploaded
+0195.536 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-themes.zip: themes: This file has already been successfully uploaded
+0195.541 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-uploads.zip: uploads: This file has already been successfully uploaded
+0195.545 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-others.zip: others: This file has already been successfully uploaded
+0195.549 (0) backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db.gz: db: This file has not yet been successfully uploaded: will queue
+0195.552 (0) Saving backup history. Total backup size: 41.9 MB
+0195.560 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0195.570 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0195.595 (0) No remote despatch: user chose no remote backup service
+0195.604 (0) Recording as successfully uploaded: backup_2023-07-07-1638_Optical_Palace__b89af6c82a31-db.gz
+0195.620 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0195.625 (0) Number of backup sets in history: 1; groups (db): 1
+0195.630 (0) Examining (for databases) backup set with group_id=0, nonce=b89af6c82a31, datestamp=1688747880 (Jul 07 2023 16:38:00)
+0195.634 (0) This backup set is the backup set just made, so will not be deleted.
+0195.634 (0) Number of backup sets in history: 1; groups (files): 1
+0195.638 (0) Examining (for files) backup set with nonce=b89af6c82a31, datestamp=1688747880 (Jul 07 2023 16:38:00)
+0195.638 (0) This backup set is the backup set just made, so will not be deleted.
+0195.642 (0) This backup set is the backup set just made, so will not be deleted.
+0195.642 (0) This backup set is the backup set just made, so will not be deleted.
+0195.642 (0) This backup set is the backup set just made, so will not be deleted.
+0195.642 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0195.646 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0195.655 (0) Resume backup (b89af6c82a31, 0): finish run
+0195.679 (0) Decremented the semaphore (fd) by 1
+0195.688 (0) Semaphore (fd) unlocked
+0195.691 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0195.706 (0) Fetching RSS news feed
+0197.469 (0) Fetched RSS news feed; result is a: SimplePie
+0197.480 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: sonik...
+0197.574 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0197.580 (0) The backup apparently succeeded and is now complete
